@@ -1,4 +1,4 @@
-# LeiAI-WEB
+# LeiAI-WEB-H5
 
 
 ### 最新版本： leiai-v6.0.0(20240102发布)
