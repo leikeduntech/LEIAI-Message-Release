@@ -6,7 +6,8 @@
 ### 功能介绍
 - 对话问答，图片生成等，均支持高并发账号池
 - 大模型驱动的应用，支持三方应用接入
-- 大模型支持被动同步国内外最新版本，无需更新系统
+- 大模型支持被动同步国内外最新版本，无需更新系统，包括但不限于：OpenAI、Authropic Claude、Ollama、Google Gemini、Google PaLM2、Cohere、百度文心一言、阿里通义千问、讯飞星火、清华智谱ChatGLM/GLM-4V、月之暗面Moonshot、360智脑、腾讯混元、零一万物、知识库FastGPT等
+- 绘画支持Midjourney和Dall E模型
 - 独立后台管理，包括系统配置和运营管理等
 
 ### Demo演示系统
