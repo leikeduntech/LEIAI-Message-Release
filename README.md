@@ -1,10 +1,10 @@
 # 雷AI简介
 
 - <span style="color:red">本文档将定期进行更新，一旦更新将会集中通知各位，请保持关注以确保能够及时接收最新信息，恕不提供个别通知服务。</span>
-- 网页版体验：[雷克顿智能助手](https://leiaibot.com)
-- 公众号体验：微信搜索关注“**上海雷克顿科技**”
-- MacOS下载地址：[LeiAIBot-darwin-x64-7.3.0.zip](https://oss.leikeduntech.com/public/leiaibot_app/macos/LeiAIBot-darwin-x64-7.3.0.zip)
-- Windows下载地址：[LeiAIBot-7.3.0-Win_x64-Setup.exe](https://oss.leikeduntech.com/public/leiaibot_app/windows/LeiAIBot-7.3.0-Win_x64-Setup.exe)
+- 网页版体验（电脑/手机）：[雷克顿智能助手](https://leiaibot.com)
+- 公众号体验：微信搜索关注“**上海雷克顿科技**”选择服务菜单
+- MacOS客户端下载：[LeiAIBot-darwin-x64-7.3.0.zip](https://oss.leikeduntech.com/public/leiaibot_app/macos/LeiAIBot-darwin-x64-7.3.0.zip)
+- Windows客户端下载：[LeiAIBot-7.3.0-Win_x64-Setup.exe](https://oss.leikeduntech.com/public/leiaibot_app/windows/LeiAIBot-7.3.0-Win_x64-Setup.exe)
 - 更新记录：[雷AI更新记录](https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwK8WF6U9iRCiwzhyKHq?scode=AAQAlQdCABgah3XVZWAfEA4Ab5APw)
 - 商务联系：[点这联系客服](https://work.weixin.qq.com/kfid/kfc08dccfdd8939f87b)
 
